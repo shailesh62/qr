@@ -31,3 +31,11 @@ body{
   font-weight: 200px;
   color: #647572;
 }
+
+@media (max-width: 767px) {
+  body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+}
